@@ -1,20 +1,18 @@
 import { IProject } from '@/types';
 
 export const GENERAL_INFO = {
-    email: 'tasmirolislam@gmail.com',
+    email: 'rrsv.gupta@gmail.com',
 
     emailSubject: "Let's collaborate on a project",
-    emailBody: 'Hi Tajmirul, I am reaching out to you because...',
+    emailBody: 'Hi Ravi, I am reaching out to you because...',
 
-    oldPortfolio: 'https://www.legacy.me.toinfinite.dev',
-    upworkProfile: 'https://www.upwork.com/freelancers/tajmirul',
+    // oldPortfolio: 'https://www.legacy.me.toinfinite.dev',
+    // upworkProfile: 'https://www.upwork.com/freelancers/tajmirul',
 };
 
 export const SOCIAL_LINKS = [
-    { name: 'github', url: 'https://github.com/Tajmirul' },
-    { name: 'linkedin', url: 'https://www.linkedin.com/in/tajmirul' },
-    { name: 'facebook', url: 'https://www.facebook.com/tajmirul.2000' },
-    { name: 'Old Version', url: GENERAL_INFO.oldPortfolio },
+    { name: 'github', url: 'https://github.com/ravigupta2' },
+    { name: 'linkedin', url: 'https://www.linkedin.com/in/ravig98' },
 ];
 
 export const MY_STACK = {
@@ -286,23 +284,18 @@ export const PROJECTS: IProject[] = [
 
 export const MY_EXPERIENCE = [
     {
-        title: 'Software Engineer (Frontend)',
-        company: 'Strativ AB',
-        duration: 'Dec 2024 - Present',
+        title: 'Senior Software Engineer',
+        company: 'Codal',
+        duration: 'April 2024 - Present',
     },
     {
-        title: 'Frontend Developer',
-        company: 'Epikcoders',
-        duration: 'Oct 2023 - Nov 2024',
+        title: 'Software Engineer',
+        company: 'OpenXcell',
+        duration: 'Dec 2022 - March 2024',
     },
     {
-        title: 'FRONTEND ENGINEER',
-        company: 'Anchorblock Technology',
-        duration: 'Oct 2022 - Sep 2023',
-    },
-    {
-        title: 'Frontend Developer (Part-time)',
-        company: 'Branex IT',
-        duration: 'Jan 2022 - Oct 2022',
+        title: 'Jr. Software Engineer',
+        company: 'Weboccult Technologies',
+        duration: 'Jan 2020 - Nov 2022',
     },
 ];
